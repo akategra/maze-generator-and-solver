@@ -2,8 +2,7 @@
 
 ## Description:
 
-This project uses java's **swing GUI** to simulate a generation and solution of a random maze. This demonstration creates a random maze and uses breadth-first search to find the shortest path between the starting position 0,0 and the diagonally opposite position. This code was submitted as part of the final project of my
-3rd semester course of **Data Structures and Algorithms.**
+This project uses java's **swing GUI** to simulate a generation and solution of a random maze. This demonstration creates a random maze and uses breadth-first search to find the shortest path between the starting position 0,0 and the diagonally opposite position.
 
 ## User Input:
 
